@@ -6,7 +6,7 @@
 
 데모 [링크](https://codepen.io/stories2/pen/NWPEdWb)
 
-![미리보기](Demo/demo.png)
+![미리보기](Demo/demo2.png)
 
 ## Reference
 
